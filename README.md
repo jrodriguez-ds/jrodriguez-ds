@@ -6,6 +6,7 @@ at Universidad Complutense de Madrid.
 ## Projects
 | Project | Description | Tools |
 |---|---|---|
+| [Pump it Up — DrivenData Competition](https://github.com/jrodriguez-ds/pump-it-up) | Multiclass classification of water pump status in Tanzania. 30 documented iterations, score 0.8264. Stacking RF + LightGBM ensemble | Python, scikit-learn, LightGBM, pandas |
 | [Data Mining & Predictive Modelling](https://github.com/jrodriguez-ds/data-mining-ucm) | Full ML pipeline: regression, time series, PCA, clustering across agriculture, industrial and drone delivery datasets | Python, scikit-learn, statsmodels, pandas |
 | [MongoDB - One Piece TCG](https://github.com/jrodriguez-ds/mongodb-onepiece-tcg) | Web scraping, data collection and analysis of card game data using NoSQL | Python, PyMongo, MongoDB Atlas, BeautifulSoup |
 | [SQL - Smart Desk](https://github.com/jrodriguez-ds/sql-smartdesk) | Business analysis with SQL queries | SQL, Snowflake |
@@ -14,7 +15,7 @@ at Universidad Complutense de Madrid.
 | [Tableau - Easy Loans](https://public.tableau.com/app/profile/javier.rodriguez8062/viz/shared/HY3CT44H3) | Interactive business dashboard | Tableau |
 
 ## Skills
-Python · SQL · pandas · scikit-learn · statsmodels · MongoDB Atlas · 
+Python · SQL · pandas · scikit-learn · LightGBM · statsmodels · MongoDB Atlas · 
 Snowflake · Tableau · BeautifulSoup · Machine Learning · EDA · Time Series
 
 ## Contact
